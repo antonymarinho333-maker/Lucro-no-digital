@@ -1,2 +1,2 @@
-# Lucro-no-digital
+# Lucro sem sair de casa
 Página de vendas
